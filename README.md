@@ -28,8 +28,8 @@ If yours doesnt work remove any region=(whatever is inside)
 Or if you know what you are doing choose the correct regions, used ones:
 
 Regions used for finding the letters, can be modified depending on resolution above
-letter_reg = (850,450,200,200)
-menu_reg = (10, 300, 250, 250)
+letter_reg = (850,450,200,200) Find letters.
+menu_reg = (10, 300, 250, 250) "Menu" that has the "Name:" when you go into meditation
 
 
 Disclaimer: This was done after staying awake the whole night randomly within 20 minutes, do not expect anything.
