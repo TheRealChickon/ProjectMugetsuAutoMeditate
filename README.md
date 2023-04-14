@@ -19,3 +19,14 @@ Setup:
 3. Open cmd in the folder path and run ***"pip install -r requirements.txt"***
 4. Join the game and go to soul society.
 5. Open *test.py*
+
+
+
+Your resolution is Important here.
+
+If yours doesnt work remove any region=(whatever is inside)
+Or if you know what you are doing choose the correct regions, used ones:
+
+# Regions used for finding the letters, can be modified depending on resolution above
+# letter_reg = (850,450,200,200)
+# menu_reg = (10, 300, 250, 250)
