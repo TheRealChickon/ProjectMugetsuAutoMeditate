@@ -17,8 +17,7 @@ from win32gui import GetWindowText, GetForegroundWindow
 meditate_key = "k"  # The key to press for meditation
 auto_enter_med = True  # Flag to enable/disable auto entering meditation **FLAG WORKING**
 check_window = True  # Flag to enable/disable checking for focus on Roblox window **FLAG WORKING**
-check_window_cooldown = 2  # Interval between window focused check. also the time for the script to start. **WORKING**
-
+check_window_cooldown = .1  # Interval between window focused check. also the time for the script to start. **WORKING**
 
 # **!Ignore anything below unless you know what you are doing!**
 focused = threading.Event()  # Event to indicate if the Roblox window is in focus
