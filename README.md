@@ -10,6 +10,9 @@ Features:
   - Auto re-enter Meditation
   - Auto Check for focus on Roblox window
 
+Maybe Upcoming:
+  - Auto Check if Can Meditate
+  - Auto Senkaimon ( Soul Society )
 
 
 Setup:
@@ -17,8 +20,8 @@ Setup:
 1. Install the latest python Version.
 2. Download the latest release and unzip.
 3. Open cmd in the folder path and run ***"pip install -r requirements.txt"***
-4. Join the game and go to soul society.
-5. Open *test.py*
+4. Join the game and go to soul society ( Use Senkaimon ).
+5. Open *test.py*.
 
 
 
