@@ -13,6 +13,8 @@ Features:
 Maybe Upcoming:
   - Auto Check if Can Meditate
   - Auto Senkaimon ( Soul Society )
+  - Stop when can fight Zanpakuto ( Optional )
+  - Webhook Notification for that - Multiple account support at once before that. ( Unlikely to do that since im bored of the game alrd )
 
 
 Setup:
