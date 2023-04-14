@@ -1,5 +1,7 @@
+
 # ProjectMugetsuAutoMeditate
-Automatically meditate in the Roblox game: "Project Mugetsu"
+## Automatically meditate in the Roblox game: "Project Mugetsu"
+### To make it faster, Disable windows check and lower the cooldown.
 
 Game Link: https://www.roblox.com/games/9447079542/
 
