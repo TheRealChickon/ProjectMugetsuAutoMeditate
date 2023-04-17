@@ -10,7 +10,7 @@ import threading
 import time
 
 import pyautogui
-import pydirectinput
+import pydirectinputs
 from win32gui import GetWindowText, GetForegroundWindow
 
 # **!Change the values below to your liking!**
