@@ -21,7 +21,10 @@ check_window_cooldown = .1  # Interval between window focused check. also the ti
 
 # **!Ignore anything below unless you know what you are doing!**
 focused = threading.Event()  # Event to indicate if the Roblox window is in focus
-focused.set()  # Set the event to true by default for the functions to work when check_window is disabled aka "spoofing" that the tab is focused.
+focused.set()  # Set the event to true by default for the functions to work when check_window is disabled aka
+
+
+# "spoofing" that the tab is focused.
 
 
 def check_focus():
@@ -71,13 +74,12 @@ def stay_menu():
     while True:
         if not focused.is_set():
             continue
-        location = pyautogui.locateOnScreen(("Pictures\menu.png"), grayscale=True, confidence=0.8,
+        location = pyautogui.locateOnScreen("Pictures\menu.png", grayscale=True, confidence=0.8,
                                             region=(
                                                 10, 300, 250, 250))  # Search for the menu image in the specified region
         if location is None:
             press_letter(meditate_key)  # Press the meditation key if the menu is not found
             time.sleep(1)
-
 
 def main():
     """
