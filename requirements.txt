@@ -3,3 +3,4 @@ PyDirectInput==1.0.4
 opencv-python==4.7.0.72
 Pillow==9.5.0
 pywin32==306
+pydirectinput=1.0.4
