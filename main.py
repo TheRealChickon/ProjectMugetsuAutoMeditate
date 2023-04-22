@@ -38,7 +38,7 @@ def check_focus():
         else:
             time.sleep(check_window_cooldown)
             print(f"Current Tab: {GetWindowText(GetForegroundWindow())} Please focus on the Roblox Tab.")
-            focused.clear()  # Clear the event
+        focused.clear()  # Clear the event
 
 
 def find_letter():
