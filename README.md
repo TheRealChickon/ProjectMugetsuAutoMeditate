@@ -5,7 +5,7 @@
 
 Game Link: https://www.roblox.com/games/9447079542/
 
-Script for the Roblox game 'Project Mugetsu' made by TheRealChicken#5230
+Script for the Roblox game 'Project Mugetsu'
 Features:
   - Auto Meditate puzzle
   - Assign own key for meditation
